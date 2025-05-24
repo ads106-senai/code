@@ -1,6 +1,7 @@
 import time
 
+print("Programa Revisado")
 print("Aguarde...")
-time.sleep(2)
+time.sleep(10)
 print("Pronto")
 
